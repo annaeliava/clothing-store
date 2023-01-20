@@ -1,6 +1,4 @@
-# stream7_project_html_toys_shop
-Проект веб-сайта интернет-магазина женской одежды
-
+# Проект веб-сайта интернет-магазина женской одежды
 
 1/ *Вдохновение*:
 Команда разработки вдохновлялась эстетикой минимализма, четкости линий, воздушностью и легкостью. Главная задача - не перегружать сайт лишними деталями, создать эстетичную "основу" для дальнейших улучшений. Мы верим в то, что сайт вместе с брендом заказчика будет расти и развиваться.
@@ -45,3 +43,9 @@
 Что ждет проект далее:
 -добавление цветовой палитры, шрифтов и их размеров, обновление фотографий, описаний и стоимостей.
 -подключение серверной части сайта и публикация на просторах глобальной сети интернет.
+
+<div>
+    <img title='html5' alt='html5' width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
+    <img title='css3' alt='css3' width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;
+    <img title='js' alt='js' width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;
+</div>
